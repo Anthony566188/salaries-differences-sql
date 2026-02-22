@@ -64,6 +64,3 @@ Foi desenvolvido um exercício complementar (não presente na plataforma):
 - Diferença entre o maior salário de Marketing e Engenharia  
 - Média salarial de Vendas e Engenharia (exercício adicional)
 
-- Cálculos agregados por grupo
-- Uso de lógica condicional em consultas SQL
-- Escrita de queries com foco analítico
